@@ -19,15 +19,14 @@
   },
   "homepage": "https://github.com/gtg092x/node-wp-cli",
   "devDependencies": {
-    "request": "^2.34.0",
-    "jsdom": "^0.10.5",
     "async": "^0.8.0",
-    "lodash": "^2.4.1"
+    "jsdom": "^0.10.5",
+    "lodash": "^2.4.1",
+    "request": "^2.34.0"
   },
   "dependencies": {
     "async": "^0.8.0",
-    "escapeshellarg": "^0.1.0",
     "lodash": "^2.4.1",
-    "shell-escape": "^0.2.0"
+    "shell-args-escape": "git+https://github.com/fLiuzziSidea/shell-args-escape.git"
   }
 }
