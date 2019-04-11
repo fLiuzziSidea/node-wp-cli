@@ -27,6 +27,6 @@
   "dependencies": {
     "async": "^0.8.0",
     "lodash": "^2.4.1",
-    "shell-args-escape": "git+https://github.com/fLiuzziSidea/shell-args-escape.git"
+    "shell-args-escape": "git+https://github.com/franc-liuzzi/shell-args-escape.git"
   }
 }
